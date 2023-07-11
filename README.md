@@ -10,6 +10,10 @@ pip install pyfingerprint
 ```
 pip install pymysql
 ```
+- pyserial
+```
+pip install pyserial
+```
 - Change the connection config inside main() function
 ```
 connection = pymysql.connect(
